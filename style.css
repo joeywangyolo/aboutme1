@@ -1,0 +1,41 @@
+.content{
+    color: rgb(255, 255, 255);
+    background-color: hsl(192, 35%, 72%,0.4);
+    border: 1px rgb(126,213,223);
+    padding: 20px;
+    font-size:x-large;
+}
+/* 標題數字 */
+h2{ 
+    color: #ffffff; 
+}
+#short{
+    margin: 10px;
+    font-size: 20px;
+    color: #c5856e;
+   }
+   /* 分隔線 */
+hr{
+    background-color: #eec97b;
+    height: 2px;
+    border: none;
+}
+.icon{
+    width:40px;
+    height:40px;
+    position: relative;left: 5px;
+}
+.pic{
+    width: 300px;
+    height: 400px;
+    float:left; /* 圖片在左邊 */
+    padding: 20px;
+    position: relative;
+    left: 500px;
+}
+.sftext{
+    padding: 20px 20px 0px 0px;
+    position: relative;
+    top: 40px;
+    right:30px;
+}
